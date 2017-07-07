@@ -18,7 +18,8 @@ terminal:
 
 Feito isto, já é possível criar seus primeiros componentes.
 
-## Utilização
+Utilização
+=========
 
 Para criar um projeto, basta executar:
 
@@ -38,12 +39,14 @@ Para implementação do Carrossel de Imagens, utilizou-se a ferramenta React Sli
 
 :code:`$ npm install react-slick`
 
-## Implementação
+Implementação
+=============
 
 Para implementar o componente de Carrossel de Imagens, basta criar o componente e chamá-lo na página principal. Para isto, crie um arquivo
 chamado ```slider.js``` e adicione o seguinte conteúdo:
 
 .. code-block:: js
+
     import Slider from 'react-slick';
     import React from "react";
 
