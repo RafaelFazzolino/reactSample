@@ -104,7 +104,7 @@ chamado ```slider.js``` e adicione o seguinte conteúdo:
 
 Este código cria o componente SimpleSlider e detalha o estilo deste componente. Para definição do estilo, foram usadas duas variáveis de estilo: ```sliderStyle``` e ```imageStyle```, a primeira cuida do estilo do Slider em si, e a segunda cuida do estilo das imagens apresentadas.
 
-Para este tutorial foram utilizadas imagens genéricas, disponíveis em [placehold](http://placehold.it), apenas como exemplo. Entretanto, é possível
+Para este tutorial foram utilizadas imagens genéricas, disponíveis em `placehold <http://placehold.it/>`_, apenas como exemplo. Entretanto, é possível
 utilizar qualquer imagem para isto, basta obtê-las da forma desejada, seja da base de dados ou de um servidor remoto.
 
 Uma configuração importante é o campo ```adaptiveHeight: true```, que define que a altura do slider se adapta de acordo com a necessidade. Buscando validar esta configuração, cada imagem possui um número de linhas na legenda, que aumenta ou não o tamanho do slider.
